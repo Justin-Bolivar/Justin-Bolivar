@@ -20,6 +20,3 @@ I am a computer science student trying to improve in a project to project basis
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Justin-Bolivar&icon=2&color=11)](https://visitcount.itsvg.in)
