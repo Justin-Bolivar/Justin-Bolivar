@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student trying to improve in a project to project basis
+I am a computer science student and a future prompt Engineer
 
 
 # 💻 Tech Stack:
